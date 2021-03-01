@@ -28,8 +28,6 @@ public class Main {
 			break;
 			case 3: System.out.println("Pilha: " +data.print());
 			break;
-			case 4: data.passagem();
-			break;
 			case 0 : JOptionPane.showMessageDialog(null, "Obrigado por utilizar a aplicação.");
 			break;
 			default: JOptionPane.showMessageDialog(null, "Opção inválida");
